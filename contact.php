@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>IMK Express</title>
+    <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="IMK Express" name="description">
+    <meta content="" name="keywords">
+    <meta content="" name="author">
+    <!-- CSS Files
+    ================================================== -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
+    <link href="css/plugins.css" rel="stylesheet" type="text/css">
+    <link href="css/swiper.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/coloring.css" rel="stylesheet" type="text/css">
+    <!-- color scheme -->
+    <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+    <div id="wrapper">
+        <!-- page preloader begin -->
+        <div id="de-loader"></div>
+        <!-- page preloader close -->
+        <!-- header begin -->
+        <header class="header-full transparent">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="de-flex sm-pt10">
+                            <div class="de-flex-col">
+                                <div class="de-flex-col">
+                                    <!-- logo begin -->
+                                    <div id="logo">
+                                        <a href="index-2.html">
+                                            <img class="logo-main" style="width: 10em;" src="images/timeline/201903.png" alt="">
+                                            <img class="logo-mobile" style="width: 10em;" src="images/timeline/201903.png" alt="">
+                                        </a>
+                                    </div>
+                                    <!-- logo close -->
+                                </div>
+                            </div>
+                            <div class="de-flex-col header-col-mid">
+                                <ul id="mainmenu">
+                                    <li>
+                                        <a class="menu-item" href="index.html">Home</a>
+                                        <!--
+                                                                                <ul>
+                                                                                    <li><a class="menu-item" href="index-2.html">Homepage One</a></li>
+                                                                                    <li><a class="menu-item" href="homepage-2.html">Homepage Two</a></li>
+                                                                                    <li><a class="menu-item" href="homepage-3.html">Homepage Three</a></li>
+                                                                                </ul>
+                                        -->
+                                    </li>
+                                    <li><a class="menu-item" href="about.html">About Us</a></li>
+                                    <li><a class="menu-item" href="services.html">Services</a></li>
+
+                                    <li><a class="menu-item" href="news.html">News</a></li>
+                                    <li><a class="menu-item" href="news.html">Career</a></li>
+                                    <li><a class="menu-item" href="news.html">Contact</a></li>
+                                </ul>
+                            </div>
+                            <div class="de-flex-col">
+                                <div class="menu_side_area">
+                                    <div class="h-phone md-hide">
+                                        <span>Need Help?</span>055 616 6343
+                                    </div>
+
+                                    <!--<div id="google_translate_element"></div>-->
+
+                                    <ul id="mainmenu" class=" h-phone">
+                                        <li>
+                                            <a class="menu-item" href="index.html">English (US)</a>
+                                            <ul>
+                                                <li><a class="menu-item" href="index.html">English (US)</a></li>
+                                                <li><a class="menu-item" href="rtl/index.html">الْعَرَبيّة</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <span id="menu-btn"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- header close -->
+        <!-- content begin -->
+        <div class="no-bottom no-top" id="content">
+            <div id="top"></div>
+            <!-- section begin -->
+            <section id="subheader" class="jarallax text-light">
+                <img src="images/background/contactbg.png" class="jarallax-img" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2 text-center">
+                            <div class="subtitle s2 wow fadeInUp mb-3">Contact</div>
+                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">
+                                Contact us about anything related to our company or services.
+                                We'll do our best to get back to you as soon as possible.
+                            </h2>
+                            <ul class="crumb">
+                                <li><a href="index-2.html">Home</a></li>
+                                <li class="active">Contact</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- section close -->
+
+
+            <section class="no-top no-bottom text-light">
+                <div class="container-fluid">
+                    <div class="row g-0">
+                        <div class="col-lg-4 col-md-6">
+                            <div class="de-icon-text bg-dark-1 p-4">
+                                <img src="images/svg/phone-svgrepo-com-white.svg" class="" alt="">
+                                <div class="d-text">
+                                    <h4>Phone</h4>
+                                    0556387678/0557499714
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <div class="de-icon-text bg-dark-2 p-4">
+                                <img src="images/svg/email-address-svgrepo-com-white.svg" class="" alt="">
+                                <div class="d-text">
+                                    <h4>Email</h4>
+                                    support_IMKExpress@gmail.com
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6">
+                            <div class="de-icon-text bg-dark-3 p-4">
+                                <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="">
+                                <div class="d-text">
+                                    <h4>Address</h4>
+                                    8X6C+9MH, شارع الخليج ،, حي الخليج، Buraydah 52339
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="no-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-10 offset-lg-1">
+
+                            <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.827583877624!2d46.68434387461368!3d24.835569246254565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efb4328a82b43%3A0x24db075c907f8c52!2sNo.%20285%2C%20An%20Narjis%2C%20Riyadh%2013324%2C%20Saudi%20Arabia!5e0!3m2!1sen!2sin!4v1704640369333!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3576.4768136871357!2d43.9716389!3d26.3110556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjbCsDE4JzM5LjgiTiA0M8KwNTgnMTcuOSJF!5e0!3m2!1sen!2sin!4v1716999512740!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <div class="s_map_color_filter" style=""></div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+            <section>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-10 offset-lg-1">
+                            <form name="contactForm" id="contact_form" class="position-relative z1000" method="post" action="">
+                                <div class="row gx-4">
+                                    <div class="col-lg-6 col-md-6 mb10">
+                                        <div class="field-set">
+                                            <span class="d-label">Name</span>
+                                            <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required>
+                                        </div>
+
+                                        <div class="field-set">
+                                            <span class="d-label">Email</span>
+                                            <input type="text" name="email" id="email" class="form-control" placeholder="Your Email" required>
+                                        </div>
+
+                                        <div class="field-set">
+                                            <span class="d-label">Phone</span>
+                                            <input type="text" name="mobile" id="phone" class="form-control" placeholder="Your Phone" required>
+                                        </div>
+                                        <div class="field-set">
+                                            <span class="d-label">Company</span>
+                                            <input type="text" name="company" id="phone" class="form-control" placeholder="Your Phone" required>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="field-set">
+                                            <span class="d-label">Subject</span>
+                                            <input type="text" name="subject" id="phone" class="form-control" placeholder="Your Phone" required>
+                                        </div>
+                                        <div class="field-set mb20">
+                                            <span class="d-label">Message</span>
+                                            <textarea name="message" id="message" class="form-control" placeholder="Your Message" required></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!-- <div class="g-recaptcha" data-sitekey="6LdW03QgAAAAAJko8aINFd1eJUdHlpvT4vNKakj6"></div>-->
+                                <div id='submit' class="mt20">
+                                    <input type='submit' id='send_message' value='Send Message' class="btn-main">
+                                </div>
+
+                                <div id="success_message" class='success'>
+                                    Your message has been sent successfully. Refresh this page if you want to send more messages.
+                                </div>
+                                <div id="error_message" class='error'>
+                                    Sorry there was an error sending your form.
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+<?php
+    if(!empty($_POST['submit'])){
+		 ?><script>alert('Calling');</script><?php
+    $errors = '';
+    //$myemail = 'amendra.dutt@gmail.com';
+    
+    if (empty($_POST['name']) ||
+			empty($_POST['company']) ||
+            empty($_POST['mobile']) ||
+            empty($_POST['email']) ||
+            //empty($_POST['companyname']) ||
+            empty($_POST['subject']) ||
+            empty($_POST['message'])) {
+        $errors .= "\n Error: all fields are required";
+    }
+        $name = $_POST['name'];
+		$company = $_POST['company'];
+        $mobile = $_POST['mobile'];
+        $email_address = $_POST['email'];
+		//$companyname = $_POST['companyname'];
+        $message = $_POST['message'];
+        $subject = $_POST['subject'];
+        if (!preg_match(
+                        "/ ^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/i", $email_address)) {
+            $errors .= "\n Error: Invalid email address";
+        }
+ 
+    if (!empty($errors)) {
+
+        ///////////////////////
+                    $to_m = 'support@deliverynetworkest.com';
+                    $cc = 'imran.cs10@gmail.com';
+
+                    $to = $to_m . ',' . $cc;
+                    $subject = 'Enquiry Form Submission';
+
+                    $body = 'You have received a new enquiry from ' . $name . '<br/>
+                    Here are the details: <br/>
+					Name : ' . $name . '<br/>
+					Company : ' . $company . '<br/>
+					Mobile : ' . $mobile . '<br/>
+                    Email : ' . $email_address . '<br/>
+					
+                    Subject query : ' . $subject . '<br/>
+					Message :' . $message . '<br/>
+					<br/>
+                    Regards,<br/>
+                    Team IT<br/>';
+
+                    $from= $email_address;
+                    $header = "From:" . $from . "<" . $from . ">";
+                    $header .= "MIME-Version: 1.0\r\n";
+
+                    $header .= "Content-type: text/html; charset=iso-8859-1\r\n";
+
+                    $headers .= "X-Priority: 1\r\n";
+
+                    $headers .= "X-MSMail-Priority: High\r\n";
+
+                    $headers .= "X-Mailer: PHP";
+                    mail($to, $subject, $body, $header);
+                   
+        ?><script>alert('Thanks! Our Expert will get back to you soon');</script><?php
+        //////////////////
+    }
+    
+    }
+    ?>
+
+
+
+        </div>
+        <!-- content close -->
+        <section class="bg-dark-1 text-light no-bottom">
+            <div class="container">
+                <div class="row align-items-center gx-5">
+                    <div class="col-lg-12 mb-sm-20 position-relative">
+                        <h2 class="wow fadeInUp" data-wow-delay=".2s">7+ companies trust IMK Express services.</h2>
+                        <p class="wow fadeInUp">Join us and make your company a better place.</p>
+                        <a class="btn-line mb10" href="services.html">Contact us Now</a>
+                        <hr class="s2">
+                        <div class="spacer-10"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- content close -->
+        <!-- ` begin -->
+        <footer class=" no-top no-bottom">
+            <div class="container">
+                <div class="row gx-5">
+                    <div class="col-lg-6 col-sm-6">
+
+
+                        <div class="de-icon-text">
+                            <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="">
+                            <div class="d-text">
+                                <h4>Address</h4>
+                                8X6C+9MH, شارع الخليج ،, حي الخليج، Buraydah 52339
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-sm-6 order-lg-2 order-sm-1">
+                        <div class="de-icon-text mb20">
+                            <img src="images/svg/email-address-svgrepo-com-white.svg" class="" alt="">
+                            <div class="d-text">
+                                <h4>Email</h4>
+
+
+                                support_IMKExpress@gmail.com
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="subfooter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="de-flex">
+                                <div class="de-flex-col">
+                                    Copyright © IMK Expresss 2023
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- footer close -->
+    </div>
+
+    <!-- Javascript Files
+    ================================================== -->
+    <script src="js/plugins.js"></script>
+    <script src="js/designesia.js"></script>
+    <script src='../../../www.google.com/recaptcha/api.js' async defer></script>
+    <script src="form.js"></script>
+    <script src="recaptcha.html"></script>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                { pageLanguage: 'en', includedLanguages: 'en,ar,bn,zh-CN' },
+                'google_translate_element'
+            );
+        }
+    </script>
+
+    <script type="text/javascript"
+            src="https://translate.google.com/translate_a/element.js?
+cb=googleTranslateElementInit"></script>
+</body>
+
+
+<!-- Mirrored from madebydesignesia.com/themes/uptech/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Jan 2024 08:19:52 GMT -->
+</html>
